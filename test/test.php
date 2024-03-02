@@ -71,3 +71,7 @@ if ($err) {
 }
 
 ?>
+//giờ chúng ta đã có chuỗi json xuất được lên trang web rồi việc của mình là tạo form để hiển thị tất cả dữ liệu lên cho thầy,
+//còn việc có thể thêm, xóa, sửa dữ liệu hay không thì để a nghiên cứu thử xem sao cho đủ yêu cầu của thầy. A thầy có yc có xây dựng web site bán vé
+//có thể là mình cần làm thêm chức năng book vé dựa trên cái api vừa lấy được. 
+ 
