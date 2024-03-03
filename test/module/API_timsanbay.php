@@ -134,7 +134,7 @@
         }
     }
     ?>
-    <!-- Sử dụng type="button" để ngăn trình duyệt thực hiện hành động mặc định của form -->
+    
 </form>
 
 </body>

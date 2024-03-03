@@ -3,7 +3,7 @@
 $apiKey = 'vKnqLeZVR6k1AOHQzwrPP4cAxWVRTJLR';//Đây là key a đăng ký trên web thầy cho.
 $apiSecret = 'ukdzzbePHfevXXmc';//Đây là key a đăng ký trên web thầy cho.
 $accessTokenEndpoint = 'https://test.api.amadeus.com/v1/security/oauth2/token'; //accsess token có thể sẽ có hạn sử dụng e có thể lên postman lấy, k đc ibx a chỉ
-$jsonResourceEndpoint = 'https://test.api.amadeus.com/v1/airline/destinations?airlineCode=BA'; //địa chỉ lấy dữ liệu json
+$jsonResourceEndpoint = 'https://test.api.amadeus.com/v2/shopping/flight-offers'; //địa chỉ lấy dữ liệu json
 
 // Gửi yêu cầu để lấy access token
 $curl = curl_init();
